@@ -3,7 +3,7 @@ public class FirstClassFromEclipse {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		system.out.println("this is from upstream");
+		System.out.println("this is from upstream");
 
 	}
 
